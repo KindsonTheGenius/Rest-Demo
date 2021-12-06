@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+[Video Tutorial here](https://youtu.be/qXvFaEkkZH8) 
+
+[Step by Step Procedure here](https://www.kindsonthegenius.com/how-to-make-rest-api-calls-in-react-get-post-put-delete/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
